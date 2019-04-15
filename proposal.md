@@ -2,7 +2,7 @@
 
 This project is a functionable calculator constructed through JavaScript.
 
-## Summary
+### Summary
 
 The calculator is able to perform as a standard calculator and deal with some fundamental calculations. Users are able to input the formula they want to calculate and get the result.
 
