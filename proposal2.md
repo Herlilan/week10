@@ -117,4 +117,6 @@ void MotorStop(){
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+https://www.youtube.com/watch?v=8E3ltjnbV0c&t=576s
+https://www.youtube.com/watch?v=JQrP7MDZdIo&t=202s
+https://www.youtube.com/watch?v=by5qH-Xzeag
